@@ -1,0 +1,40 @@
+[1.163s] Invoking command in '/home/mingfeng/demo_data/src/data_publisher': AMENT_PREFIX_PATH=/home/mingfeng/demo_data/src/install/status_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mingfeng/demo_data/src/install/status_interfaces LD_LIBRARY_PATH=/home/mingfeng/demo_data/src/install/status_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mingfeng/demo_data/src/build/data_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mingfeng/demo_data/src/install/data_publisher/lib/python3.10/site-packages:/home/mingfeng/demo_data/src/install/status_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/data_publisher build --build-base /home/mingfeng/demo_data/src/build/data_publisher/build install --record /home/mingfeng/demo_data/src/build/data_publisher/install.log --install-scripts $base/lib/data_publisher --single-version-externally-managed install_data
+[1.619s] running egg_info
+[1.619s] creating ../build/data_publisher/data_publisher.egg-info
+[1.620s] writing ../build/data_publisher/data_publisher.egg-info/PKG-INFO
+[1.621s] writing dependency_links to ../build/data_publisher/data_publisher.egg-info/dependency_links.txt
+[1.623s] writing entry points to ../build/data_publisher/data_publisher.egg-info/entry_points.txt
+[1.623s] writing requirements to ../build/data_publisher/data_publisher.egg-info/requires.txt
+[1.623s] writing top-level names to ../build/data_publisher/data_publisher.egg-info/top_level.txt
+[1.623s] writing manifest file '../build/data_publisher/data_publisher.egg-info/SOURCES.txt'
+[1.625s] reading manifest file '../build/data_publisher/data_publisher.egg-info/SOURCES.txt'
+[1.625s] adding license file 'LICENSE'
+[1.626s] writing manifest file '../build/data_publisher/data_publisher.egg-info/SOURCES.txt'
+[1.627s] running build
+[1.627s] running build_py
+[1.627s] creating /home/mingfeng/demo_data/src/build/data_publisher/build
+[1.627s] creating /home/mingfeng/demo_data/src/build/data_publisher/build/lib
+[1.628s] creating /home/mingfeng/demo_data/src/build/data_publisher/build/lib/data_publisher
+[1.629s] copying data_publisher/data_pub.py -> /home/mingfeng/demo_data/src/build/data_publisher/build/lib/data_publisher
+[1.629s] copying data_publisher/__init__.py -> /home/mingfeng/demo_data/src/build/data_publisher/build/lib/data_publisher
+[1.629s] running install
+[1.629s] running install_lib
+[1.631s] creating /home/mingfeng/demo_data/src/install/data_publisher/lib/python3.10/site-packages/data_publisher
+[1.631s] copying /home/mingfeng/demo_data/src/build/data_publisher/build/lib/data_publisher/data_pub.py -> /home/mingfeng/demo_data/src/install/data_publisher/lib/python3.10/site-packages/data_publisher
+[1.631s] copying /home/mingfeng/demo_data/src/build/data_publisher/build/lib/data_publisher/__init__.py -> /home/mingfeng/demo_data/src/install/data_publisher/lib/python3.10/site-packages/data_publisher
+[1.632s] byte-compiling /home/mingfeng/demo_data/src/install/data_publisher/lib/python3.10/site-packages/data_publisher/data_pub.py to data_pub.cpython-310.pyc
+[1.633s] byte-compiling /home/mingfeng/demo_data/src/install/data_publisher/lib/python3.10/site-packages/data_publisher/__init__.py to __init__.cpython-310.pyc
+[1.634s] running install_data
+[1.634s] creating /home/mingfeng/demo_data/src/install/data_publisher/share/ament_index
+[1.634s] creating /home/mingfeng/demo_data/src/install/data_publisher/share/ament_index/resource_index
+[1.635s] creating /home/mingfeng/demo_data/src/install/data_publisher/share/ament_index/resource_index/packages
+[1.635s] copying resource/data_publisher -> /home/mingfeng/demo_data/src/install/data_publisher/share/ament_index/resource_index/packages
+[1.635s] copying package.xml -> /home/mingfeng/demo_data/src/install/data_publisher/share/data_publisher
+[1.635s] creating /home/mingfeng/demo_data/src/install/data_publisher/share/data_publisher/launch
+[1.636s] copying launch/pub_launch.py -> /home/mingfeng/demo_data/src/install/data_publisher/share/data_publisher/launch
+[1.636s] running install_egg_info
+[1.639s] Copying ../build/data_publisher/data_publisher.egg-info to /home/mingfeng/demo_data/src/install/data_publisher/lib/python3.10/site-packages/data_publisher-0.0.0-py3.10.egg-info
+[1.641s] running install_scripts
+[1.681s] Installing data_pub script to /home/mingfeng/demo_data/src/install/data_publisher/lib/data_publisher
+[1.681s] writing list of installed files to '/home/mingfeng/demo_data/src/build/data_publisher/install.log'
+[1.720s] Invoked command in '/home/mingfeng/demo_data/src/data_publisher' returned '0': AMENT_PREFIX_PATH=/home/mingfeng/demo_data/src/install/status_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mingfeng/demo_data/src/install/status_interfaces LD_LIBRARY_PATH=/home/mingfeng/demo_data/src/install/status_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mingfeng/demo_data/src/build/data_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mingfeng/demo_data/src/install/data_publisher/lib/python3.10/site-packages:/home/mingfeng/demo_data/src/install/status_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/data_publisher build --build-base /home/mingfeng/demo_data/src/build/data_publisher/build install --record /home/mingfeng/demo_data/src/build/data_publisher/install.log --install-scripts $base/lib/data_publisher --single-version-externally-managed install_data

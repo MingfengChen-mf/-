@@ -1,0 +1,38 @@
+running egg_info
+creating ../build/data_publisher/data_publisher.egg-info
+writing ../build/data_publisher/data_publisher.egg-info/PKG-INFO
+writing dependency_links to ../build/data_publisher/data_publisher.egg-info/dependency_links.txt
+writing entry points to ../build/data_publisher/data_publisher.egg-info/entry_points.txt
+writing requirements to ../build/data_publisher/data_publisher.egg-info/requires.txt
+writing top-level names to ../build/data_publisher/data_publisher.egg-info/top_level.txt
+writing manifest file '../build/data_publisher/data_publisher.egg-info/SOURCES.txt'
+reading manifest file '../build/data_publisher/data_publisher.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/data_publisher/data_publisher.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mingfeng/demo_data/src/build/data_publisher/build
+creating /home/mingfeng/demo_data/src/build/data_publisher/build/lib
+creating /home/mingfeng/demo_data/src/build/data_publisher/build/lib/data_publisher
+copying data_publisher/data_pub.py -> /home/mingfeng/demo_data/src/build/data_publisher/build/lib/data_publisher
+copying data_publisher/__init__.py -> /home/mingfeng/demo_data/src/build/data_publisher/build/lib/data_publisher
+running install
+running install_lib
+creating /home/mingfeng/demo_data/src/install/data_publisher/lib/python3.10/site-packages/data_publisher
+copying /home/mingfeng/demo_data/src/build/data_publisher/build/lib/data_publisher/data_pub.py -> /home/mingfeng/demo_data/src/install/data_publisher/lib/python3.10/site-packages/data_publisher
+copying /home/mingfeng/demo_data/src/build/data_publisher/build/lib/data_publisher/__init__.py -> /home/mingfeng/demo_data/src/install/data_publisher/lib/python3.10/site-packages/data_publisher
+byte-compiling /home/mingfeng/demo_data/src/install/data_publisher/lib/python3.10/site-packages/data_publisher/data_pub.py to data_pub.cpython-310.pyc
+byte-compiling /home/mingfeng/demo_data/src/install/data_publisher/lib/python3.10/site-packages/data_publisher/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/mingfeng/demo_data/src/install/data_publisher/share/ament_index
+creating /home/mingfeng/demo_data/src/install/data_publisher/share/ament_index/resource_index
+creating /home/mingfeng/demo_data/src/install/data_publisher/share/ament_index/resource_index/packages
+copying resource/data_publisher -> /home/mingfeng/demo_data/src/install/data_publisher/share/ament_index/resource_index/packages
+copying package.xml -> /home/mingfeng/demo_data/src/install/data_publisher/share/data_publisher
+creating /home/mingfeng/demo_data/src/install/data_publisher/share/data_publisher/launch
+copying launch/pub_launch.py -> /home/mingfeng/demo_data/src/install/data_publisher/share/data_publisher/launch
+running install_egg_info
+Copying ../build/data_publisher/data_publisher.egg-info to /home/mingfeng/demo_data/src/install/data_publisher/lib/python3.10/site-packages/data_publisher-0.0.0-py3.10.egg-info
+running install_scripts
+Installing data_pub script to /home/mingfeng/demo_data/src/install/data_publisher/lib/data_publisher
+writing list of installed files to '/home/mingfeng/demo_data/src/build/data_publisher/install.log'

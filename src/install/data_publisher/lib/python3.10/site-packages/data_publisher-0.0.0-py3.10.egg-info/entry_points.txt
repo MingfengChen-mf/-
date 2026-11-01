@@ -1,0 +1,3 @@
+[console_scripts]
+data_pub = data_publisher.data_pub:main
+

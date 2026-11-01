@@ -1,0 +1,6 @@
+Invoking command in '/home/mingfeng/demo_data/src/build/status_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mingfeng/demo_data/src/status_interfaces -DCMAKE_INSTALL_PREFIX=/home/mingfeng/demo_data/src/install/status_interfaces
+Invoked command in '/home/mingfeng/demo_data/src/build/status_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mingfeng/demo_data/src/status_interfaces -DCMAKE_INSTALL_PREFIX=/home/mingfeng/demo_data/src/install/status_interfaces
+Invoking command in '/home/mingfeng/demo_data/src/build/status_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mingfeng/demo_data/src/build/status_interfaces -- -j8 -l8
+Invoked command in '/home/mingfeng/demo_data/src/build/status_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mingfeng/demo_data/src/build/status_interfaces -- -j8 -l8
+Invoking command in '/home/mingfeng/demo_data/src/build/status_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mingfeng/demo_data/src/build/status_interfaces
+Invoked command in '/home/mingfeng/demo_data/src/build/status_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mingfeng/demo_data/src/build/status_interfaces
